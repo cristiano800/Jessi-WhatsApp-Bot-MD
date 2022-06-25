@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94779529221']
-global.premium = ['94779529221']
-global.ownernomer = '94779529221'
-global.ownername = 'MS.JESSICA'
-global.botname = 'MS.JESSICA'
-global.footer = '©WhiteShadowInc.'
-global.ig = 'https://github.com/whiteshadowofficial'
+global.owner = ['212695290310']
+global.premium = ['212695290310']
+global.ownernomer = '212695290310'
+global.ownername = 'MOUAD.EL'
+global.botname = 'MOUAD.EL'
+global.footer = '©OWENBOT BY MOUAD EL'
+global.ig = 'https://instagram.com/mouuad__elk'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/whiteshadowofficial'
-global.myweb = 'https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg'
-global.packname = 'MALSHA'
-global.author = 'MS.JESSICA'
+global.myweb = 'https://www.facebook.com/cassamouad'
+global.packname = 'FACEBOOK'
+global.author = 'MOUAD.EL'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
